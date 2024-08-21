@@ -1,0 +1,7 @@
+services:
+  next:
+    container_name: next
+    build:
+      dockerfile: .docker/Dockerfile
+    ports:
+      - $NEXT_HOST_PORT:$NEXT_CONTAINER_PORT

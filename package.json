@@ -1,0 +1,13 @@
+{
+  "name": "docker-next",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanessa Coles",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "create-next-app": "^14.2.5"
+  }
+}
